@@ -21,8 +21,8 @@ set color_titleline_bg=236
 set color_titleline_fg=147
 
 # top title area
-set color_win_title_bg=68
-set color_win_title_fg=238
+set color_win_title_bg=246
+set color_win_title_fg=235
 ##### playing file colors ######################################################
 # unselected currently playing track's text
 set color_win_cur=175
